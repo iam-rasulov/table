@@ -1,0 +1,17 @@
+table {
+  margin: 30px;
+  background-color: darkgray;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid gray;
+  text-align: center;
+  vertical-align: center;
+}
+
+button {
+  text-decoration: none;
+}
+/*# sourceMappingURL=main.css.map */
